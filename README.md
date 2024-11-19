@@ -12,7 +12,7 @@ Esse projeto se trata de um construtor de condomínio em CLI (Command Line Inter
 Você pode clonar esse repositório com o comando a seguir:
 
 ```bash
-git clone [link-do-projeto]
+git clone https://github.com/FabioAdrianoSilveira/condominio
 ```
 
 ---
